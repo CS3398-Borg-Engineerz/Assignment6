@@ -10,6 +10,7 @@ import java.io.*;
 public class ThreeSolidMain
 {   
 
+
    public static Manager tsManager = new Manager();
 
    // The entry main() method
@@ -65,17 +66,5 @@ class SuperWorker implements IWorker{
 	}
 }
 
-class Manager {
-	IWorker worker;
 
-	public void Manager() {
-
-	}
-	public void setWorker(IWorker w) {
-		worker=w;
-	}
-
-	public void manage() {
-		worker.work();
-	}
 }
