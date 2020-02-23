@@ -66,5 +66,3 @@ class SuperWorker implements IWorker{
 	}
 }
 
-
-}

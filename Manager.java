@@ -18,3 +18,4 @@ class Manager {
 	public void manage() {
 		this.worker.work();
 	}
+}
