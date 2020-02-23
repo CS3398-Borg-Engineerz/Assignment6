@@ -1,22 +1,32 @@
 # Assignment6
 SOLID Practice
 
-## Manager
+## ThreeSolidMain.Java
 ### Bailey Cheung bcg73
+SOLID Principles used 
 reasoning...
 
-## Manager
-### Bailey Cheung bcg73
+## File: Manager.Java
+### Contributer: Bailey Cheung bcg73
+SOLID Principles used 
 reasoning...
 
-## FileName
-### contributer
+## File: 
+### Contributer:
+SOLID Principles used 
 reasoning...
 
-## FileName
-### contributer
+## File: 
+### Contributer:
+SOLID Principles used 
 reasoning...
 
-## FileName
-### contributer
+## File: 
+### Contributer:
+SOLID Principles used 
+reasoning...
+
+## File: 
+### Contributer:
+SOLID Principles used 
 reasoning...
