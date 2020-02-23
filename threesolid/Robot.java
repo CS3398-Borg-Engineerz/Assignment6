@@ -1,4 +1,4 @@
-package threesolid.Robot_Class_C_m906;
+package threesolid;
 
 class Robot implements IWorker{
 	public void work() {
