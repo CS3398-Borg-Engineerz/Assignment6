@@ -1,7 +1,7 @@
 import threesolid.Worker; 
 
 class Manager {
-	IWorker worker;
+	Worker worker;
 
 	public void Manager() {
 
