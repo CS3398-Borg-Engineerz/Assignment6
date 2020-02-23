@@ -15,8 +15,8 @@
 2. Single Responsibility - 
 3. Interface Segregartion - 
 
-## File: 
-### Contributer:
+### File: 
+#### Contributer:
 1. Open Close - 
 2. Single Responsibility - 
 3. Interface Segregartion - 
