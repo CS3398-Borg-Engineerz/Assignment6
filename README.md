@@ -1,8 +1,8 @@
 # Assignment6
 SOLID Practice
 
-## ThreeSolidMain.Java
-### Bailey Cheung bcg73
+## File: ThreeSolidMain.Java
+### Contributer: Bailey Cheung bcg73
 SOLID Principles used 
 reasoning...
 
