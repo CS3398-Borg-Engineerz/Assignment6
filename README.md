@@ -22,17 +22,17 @@ If something was dependent to it, then it would have to extend the robot class, 
 2. Single Responsibility - The robot class only focuses on the Robot's job, keeping with single responsibility, not a job from another class.
 3. Interface Segregartion - The interface is not a part of the class, but implements it, keeping with interface segregation.
 
-### File: 
-#### Contributer:
-1. Open Close - 
-2. Single Responsibility - 
-3. Interface Segregartion - 
+### File: Worker.java
+#### Contributer: Josh Armstrong JArmstrong98
+1. Open Close - Worker is open to extension and allow features to be added to it that relate to the worker
+2. Single Responsibility - Worker has only two classes, work and eat. The Worker class needs both of these so the file only has the Worker responsibility
+3. Interface Segregartion - Worker only implements IEat and IWorker which it needs and isn't cluttered with additional implementations
 
-### File: 
-#### Contributer:
-1. Open Close - 
-2. Single Responsibility - 
-3. Interface Segregartion - 
+### File: SuperWorker.java
+#### Contributer: Josh Armstrong JArmstrong98
+1. Open Close - SuperWorker is also easy to extend and structure makes it not have to be rewritten/modified
+2. Single Responsibility - The SuperWorker class has only has two classes - work and eat - both of which are needed for SuperWorker. 
+3. Interface Segregartion - SuperWorker implements IEat and IWorker and no other implementations because these are the only two it needs to implement.
 
 ### File: 
 #### Contributer:
