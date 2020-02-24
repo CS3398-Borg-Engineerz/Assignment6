@@ -1,6 +1,6 @@
 package threesolid;
 
-class SuperWorker implements IWorker, IEat{
+public class SuperWorker implements IWorker, IEat{
 	public void work() {
 		//.... working much more
 	}
