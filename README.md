@@ -6,12 +6,12 @@
 ### File: ThreeSolidMain.Java
 #### Contributer: Bailey Cheung bcg73
 1. Open Close - The main class is open for extension, by creating new objects of relevant classes, or whatever the engineer specifies to be done. 
-2. Single Responsibility - The main class is only utilizing objects made from other classes.
+2. Single Responsibility - Not quite applicable. 
 3. Interface Segregation - Interfaces are segregrated from the main portion of the program.
 
 ### File: Manager.Java
 #### Contributer: Bailey Cheung bcg73
-1. Open Close - The manager is open to extension by adding features that are unique to the manager but unable to be modified by the main class of the program. 
+1. Open Close - The manager is in its own package, away from the main class. It can be easily implemented in additon to other objects, open to extension, but is not able to be changed by the main program, closed to modification. 
 2. Single Responsibility - The manager class is responsible for one item, ie managing the worker it is set to manage.
 3. Interface Segregation - Interface is not being used here. 
 
